@@ -109,7 +109,7 @@ CPGRAMS NextGen delivers:
 
 ## 📁 Project Structure
 
-```text
+```
 lib/
 ├── main.dart
 ├── app.dart
@@ -121,11 +121,11 @@ lib/
 └── utils/
 
 
-
+```
 
 ## 🏗️ Architecture
 
-~~~text
+```text
 UI (Flutter Screens & Widgets)
         ↓
 State Management (Riverpod)
@@ -135,8 +135,7 @@ Data Layer (Models / Mock Data)
 [Future REST API]
         ↓
 Backend (FastAPI + PostgreSQL)
-~~~
-
+```
 ---
 
 ## 🚀 Getting Started
@@ -149,12 +148,12 @@ Backend (FastAPI + PostgreSQL)
 
 ### Installation
 
-~~~bash
+```bash
 git clone https://github.com/YOUR_USERNAME/CPGRAMS-NextGen.git
 cd CPGRAMS-NextGen
 flutter pub get
 flutter run
-~~~
+```
 
 ### Test Credentials
 - **Phone Number:** Any 10-digit number  
@@ -182,10 +181,10 @@ flutter run
 
 ## 🧪 Testing
 
-~~~bash
+```bash
 flutter test
 flutter test --coverage
-~~~
+```
 
 ---
 
@@ -241,10 +240,11 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Your Name**  
-GitHub: [@yourusername](https://github.com/yourusername)  
-LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
-Email: your.email@example.com
+**Shashank Rustagi**  
+GitHub: [@shashankrustagi](https://github.com/shashankrustagi)  
+LinkedIn: [Shashank Rustagi](https://www.linkedin.com/in/srustagi1996/)  
+Email: mathisfunlike321@gmail.com
+
 
 ---
 
