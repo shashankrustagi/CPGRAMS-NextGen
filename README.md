@@ -40,11 +40,17 @@ CPGRAMS NextGen provides:
 
 | Splash & Login | Home Dashboard | File Grievance |
 |----------------|----------------|----------------|
-| ![Splash](screenshots/splash.png) | ![Home](screenshots/home.png) | ![File](screenshots/file.png) |
+| ![Splash](<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-12-15 at 14 31 38" src="https://github.com/user-attachments/assets/fd7ad75c-1a0c-4911-88c3-9fd269368098" />
+) | ![Home](<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-12-15 at 14 27 20" src="https://github.com/user-attachments/assets/a3e95a0b-7bcb-4f63-a534-dc46bd87a980" />
+) | ![File](<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-12-15 at 14 26 21" src="https://github.com/user-attachments/assets/d17a41ea-34b5-46e2-a1a8-c614a9afc49a" />
+) |
 
 | Grievance List | Detail View | Timeline |
 |----------------|-------------|----------|
-| ![List](screenshots/list.png) | ![Detail](screenshots/detail.png) | ![Timeline](screenshots/timeline.png) |
+| ![List](<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-12-15 at 14 26 56" src="https://github.com/user-attachments/assets/26964375-0688-41af-89cd-254669647610" />
+) | ![Detail](<img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-12-15 at 14 27 29" src="https://github.com/user-attachments/assets/7049a683-987a-4a30-bc23-bc10bcfa79b8" />
+) | ![Timeline](![Uploading Simulator Screenshot - iPhone 16 Plus - 2025-12-15 at 14.27.38.png…]()
+) |
 
 ---
 
