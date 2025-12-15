@@ -149,7 +149,7 @@ Backend (FastAPI + PostgreSQL)
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CPGRAMS-NextGen.git
+git clone https://github.com/shashankrustagi/CPGRAMS-NextGen.git
 cd CPGRAMS-NextGen
 flutter pub get
 flutter run
