@@ -1,317 +1,263 @@
-# CPGRAMS NextGen ��
+# CPGRAMS NextGen 🚀
 
-> A modern, AI-powered grievance redressal mobile application built with Flutter, inspired by India's CPGRAMS system.
+> A modern, AI-powered grievance redressal mobile application built with **Flutter**, inspired by India’s **CPGRAMS** system.
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)](https://dart.dev)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-3.x-blue?logo=dart" />
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" />
+</p>
 
 ---
 
 ## 📱 About
 
-**CPGRAMS NextGen** is a next-generation grievance redressal system designed to modernize how citizens file and track complaints with government departments. Built with Flutter for cross-platform compatibility, this app addresses the pain points of existing systems with a clean, intuitive interface and modern features.
+**CPGRAMS NextGen** is a next-generation grievance redressal system aimed at modernizing how citizens file and track complaints with government departments.
 
-### 🎯 Problem Statement
+Built with **Flutter** for true cross-platform support, the app focuses on usability, accessibility, and real-time tracking — solving key pain points in existing government portals.
 
-Current government grievance portals suffer from:
-- ❌ Complex, outdated interfaces
-- ❌ Poor mobile experience
-- ❌ Lack of real-time tracking
-- ❌ No AI-assisted categorization
-- ❌ Limited accessibility features
+---
 
-### ✨ Our Solution
+## 🎯 Problem Statement
 
-CPGRAMS NextGen provides:
-- ✅ Clean, modern Material Design 3 UI
-- ✅ Native mobile experience (Android & iOS)
+Existing grievance systems often suffer from:
+
+- ❌ Complex and outdated UI
+- ❌ Poor mobile usability
+- ❌ No real-time status tracking
+- ❌ No smart categorization
+- ❌ Accessibility limitations
+
+---
+
+## ✨ Solution
+
+CPGRAMS NextGen delivers:
+
+- ✅ Clean, modern **Material Design 3** UI
+- ✅ Native-like experience on **Android & iOS**
 - ✅ Real-time grievance tracking with timeline
-- ✅ Smart categorization (AI-ready)
-- ✅ Multi-language support (coming soon)
+- ✅ AI-ready smart categorization
 - ✅ Accessibility-first design
+- ✅ Scalable architecture
 
 ---
 
 ## 🎨 Screenshots
 
-> 📸 Screenshots captured from iPhone 16 Plus simulator
+> 📸 Captured on iPhone 16 Plus Simulator
 
-### 📱 App Screens
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd7ad75c-1a0c-4911-88c3-9fd269368098" width="240" />
+  <img src="https://github.com/user-attachments/assets/a3e95a0b-7bcb-4f63-a534-dc46bd87a980" width="240" />
+  <img src="https://github.com/user-attachments/assets/d17a41ea-34b5-46e2-a1a8-c614a9afc49a" width="240" />
+</p>
 
-| Splash & Login | Home Dashboard | File Grievance |
-|----------------|----------------|----------------|
-| <img src="https://github.com/user-attachments/assets/fd7ad75c-1a0c-4911-88c3-9fd269368098" width="300" /> | <img src="https://github.com/user-attachments/assets/a3e95a0b-7bcb-4f63-a534-dc46bd87a980" width="300" /> | <img src="https://github.com/user-attachments/assets/d17a41ea-34b5-46e2-a1a8-c614a9afc49a" width="300" /> |
+<p align="center">
+  <b>Splash & Login</b> &nbsp;&nbsp;&nbsp; <b>Home Dashboard</b> &nbsp;&nbsp;&nbsp; <b>File Grievance</b>
+</p>
 
-| Grievance List | Detail View | Timeline |
-|----------------|-------------|----------|
-| <img src="https://github.com/user-attachments/assets/26964375-0688-41af-89cd-254669647610" width="300" /> | <img src="https://github.com/user-attachments/assets/7049a683-987a-4a30-bc23-bc10bcfa79b8" width="300" /> | <img alt="Simulator Screenshot - iPhone 16 Plus - 2025-12-15 at 14 26 47" src="https://github.com/user-attachments/assets/712063c0-8a9a-4dfd-9bfa-526a9314dfa6" width="300"  />
-|
+<br/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/26964375-0688-41af-89cd-254669647610" width="240" />
+  <img src="https://github.com/user-attachments/assets/7049a683-987a-4a30-bc23-bc10bcfa79b8" width="240" />
+  <img src="https://github.com/user-attachments/assets/712063c0-8a9a-4dfd-9bfa-526a9314dfa6" width="240" />
+</p>
+
+<p align="center">
+  <b>Grievance List</b> &nbsp;&nbsp;&nbsp; <b>Detail View</b> &nbsp;&nbsp;&nbsp; <b>Timeline</b>
+</p>
 
 ---
 
 ## ✨ Features
 
-### Core Features (Implemented)
-- 🔐 **OTP-based Authentication** - Secure phone number verification
-- 📝 **File Grievances** - Simple form with category selection
-- 📊 **Dashboard** - View stats and recent grievances
-- 🔍 **Search & Filter** - Find grievances by status, category, or keyword
-- 📈 **Timeline View** - Track grievance progress in real-time
-- 👤 **Profile Management** - User info and logout
+### ✅ Implemented
+- 🔐 OTP-based Authentication
+- 📝 File grievances with category selection
+- 📊 Dashboard with grievance stats
+- 🔍 Search & filter grievances
+- 📈 Real-time timeline tracking
+- 👤 Profile management
 
-### Coming Soon
-- 🎤 Voice input for filing grievances
-- 📸 Image upload with preview
-- 🗺️ Location picker with maps
-- 🤖 AI-powered category suggestion
+### 🚧 Coming Soon
+- 🎤 Voice-based grievance filing
+- 📸 Image upload support
+- 🗺️ Location picker (Maps)
+- 🤖 AI-powered category suggestions
 - 🔔 Push notifications
-- 🌐 Multi-language support (Hindi, English, and more)
+- 🌐 Multi-language support
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Flutter 3.x** - Cross-platform mobile framework
-- **Dart 3.x** - Programming language
-- **Riverpod 2.4+** - State management
-- **Material Design 3** - UI design system
+- **Flutter 3.x**
+- **Dart 3.x**
+- **Riverpod 2.4+**
+- **Material Design 3**
 
 ### Planned Backend
-- **Python 3.11** - Backend language
-- **FastAPI** - REST API framework
-- **PostgreSQL** - Primary database
-- **Docker** - Containerization
-
-### Tools & Libraries
-- \`flutter_riverpod\` - State management
-- \`intl\` - Date formatting and localization
-- Git & GitHub - Version control
+- **FastAPI (Python 3.11)**
+- **PostgreSQL**
+- **Docker**
 
 ---
 
 ## 📁 Project Structure
 
-\`\`\`
+```text
 lib/
-├── main.dart                 # App entry point
-├── app.dart                  # Root app widget
+├── main.dart
+├── app.dart
 ├── config/
-│   ├── routes.dart           # Navigation routes
-│   └── theme.dart            # App theme (light/dark)
 ├── models/
-│   └── grievance_model.dart  # Data models
 ├── providers/
-│   ├── auth_provider.dart    # Authentication state
-│   └── grievance_provider.dart # Grievance state
 ├── screens/
-│   ├── splash/
-│   │   └── splash_screen.dart
-│   ├── login/
-│   │   └── login_screen.dart
-│   ├── home/
-│   │   └── home_screen.dart
-│   ├── grievance/
-│   │   ├── file_grievance_screen.dart
-│   │   ├── grievance_list_screen.dart
-│   │   └── grievance_detail_screen.dart
-│   └── profile/
-│       └── profile_screen.dart
 ├── widgets/
-│   ├── custom_button.dart    # Reusable button
-│   ├── custom_text_field.dart # Reusable input field
-│   └── status_badge.dart     # Status indicator
 └── utils/
-    └── validators.dart       # Form validators
-\`\`\`
 
----
+
+
 
 ## 🏗️ Architecture
 
-\`\`\`
-┌─────────────────────────────────────┐
-│         Flutter UI Layer            │
-│  (Screens, Widgets, Navigation)     │
-└──────────────┬──────────────────────┘
-               │
-┌──────────────▼──────────────────────┐
-│      State Management Layer         │
-│         (Riverpod Providers)        │
-└──────────────┬──────────────────────┘
-               │
-┌──────────────▼──────────────────────┐
-│         Data Layer (Mock)           │
-│    (Models, Mock Data Storage)      │
-└─────────────────────────────────────┘
-               │
-        [ Future: REST API ]
-               │
-┌──────────────▼──────────────────────┐
-│    Backend (Coming Soon)            │
-│  FastAPI + PostgreSQL + Docker      │
-└─────────────────────────────────────┘
-\`\`\`
+~~~text
+UI (Flutter Screens & Widgets)
+        ↓
+State Management (Riverpod)
+        ↓
+Data Layer (Models / Mock Data)
+        ↓
+[Future REST API]
+        ↓
+Backend (FastAPI + PostgreSQL)
+~~~
 
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
-
-- Flutter SDK (3.0 or higher)
-- Dart SDK (3.0 or higher)
+- Flutter SDK 3.x+
+- Dart SDK 3.x+
 - Android Studio / VS Code
-- iOS Simulator (Mac) or Android Emulator
+- iOS Simulator (macOS) or Android Emulator
 
 ### Installation
 
-1. **Clone the repository**
-   \`\`\`bash
-   git clone https://github.com/YOUR_USERNAME/CPGRAMS-NextGen.git
-   cd CPGRAMS-NextGen
-   \`\`\`
-
-2. **Install dependencies**
-   \`\`\`bash
-   flutter pub get
-   \`\`\`
-
-3. **Run the app**
-   \`\`\`bash
-   # For Android
-   flutter run
-
-   # For iOS (Mac only)
-   flutter run -d ios
-
-   # For specific device
-   flutter devices
-   flutter run -d <device_id>
-   \`\`\`
+~~~bash
+git clone https://github.com/YOUR_USERNAME/CPGRAMS-NextGen.git
+cd CPGRAMS-NextGen
+flutter pub get
+flutter run
+~~~
 
 ### Test Credentials
-
-For development/testing:
-- **Phone Number**: Any 10-digit number
-- **OTP**: \`123456\`
+- **Phone Number:** Any 10-digit number  
+- **OTP:** `123456`
 
 ---
 
 ## 📖 Usage Guide
 
 ### Filing a Grievance
-
-1. Launch app and login with OTP
-2. Tap **"File New Grievance"** on home screen
-3. Select category (e.g., Public Works, Water Supply)
-4. Enter title (min 10 characters)
-5. Describe issue in detail (min 20 characters)
-6. Add location
-7. Tap **"Submit Grievance"**
-8. Note your Grievance ID for tracking
+1. Launch the app and login using OTP
+2. Tap **File New Grievance**
+3. Select grievance category
+4. Enter title and description
+5. Add location details
+6. Submit the grievance
 
 ### Tracking Grievances
-
-1. Navigate to **"My Grievances"** from home
-2. Use search bar or filters to find specific grievances
-3. Tap any grievance card to view details
-4. Check timeline for current status
+1. Navigate to **My Grievances**
+2. Use search or filters
+3. Open a grievance to view details
+4. Track progress using the timeline
 
 ---
 
 ## 🧪 Testing
 
-\`\`\`bash
-# Run unit tests
+~~~bash
 flutter test
-
-# Run integration tests
-flutter drive --target=test_driver/app.dart
-
-# Check code coverage
 flutter test --coverage
-\`\`\`
+~~~
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please follow these steps:
+Contributions are welcome 🙌
 
 1. Fork the repository
-2. Create a feature branch (\`git checkout -b feature/AmazingFeature\`)
-3. Commit your changes (\`git commit -m 'Add some AmazingFeature'\`)
-4. Push to the branch (\`git push origin feature/AmazingFeature\`)
+2. Create a feature branch
+3. Commit your changes
+4. Push to your branch
 5. Open a Pull Request
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
 ## 🗺️ Roadmap
 
-### Phase 1: Core UI ✅ (Current)
-- [x] Authentication flow
-- [x] File grievance form
-- [x] Grievance list with filters
-- [x] Detail view with timeline
-- [x] Profile management
+### Phase 1: Core UI ✅
+- Authentication
+- File grievance
+- Grievance list
+- Timeline view
+- Profile management
 
-### Phase 2: Enhanced Features 🚧 (Next)
-- [ ] Voice input
-- [ ] Image upload
-- [ ] Location picker
-- [ ] Push notifications
+### Phase 2: Enhanced UX 🚧
+- Voice input
+- Image upload
+- Location picker
+- Push notifications
 
 ### Phase 3: Backend Integration
-- [ ] FastAPI backend
-- [ ] PostgreSQL database
-- [ ] Real authentication
-- [ ] File storage (S3/MinIO)
+- FastAPI backend
+- PostgreSQL database
+- Real authentication
+- File storage
 
 ### Phase 4: Advanced Features
-- [ ] AI category suggestion
-- [ ] Multi-language support
-- [ ] Offline mode
-- [ ] Admin dashboard
+- AI category suggestion
+- Multi-language support
+- Offline mode
+- Admin dashboard
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## ��‍💻 Author
+## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Your Name**  
+GitHub: [@yourusername](https://github.com/yourusername)  
+LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)  
+Email: your.email@example.com
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Inspired by India's CPGRAMS (Centralized Public Grievance Redress and Monitoring System)
-- Flutter team for the amazing framework
-- Material Design team for design guidelines
-- Open source community
-
----
-
-## 📊 Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/CPGRAMS-NextGen?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/CPGRAMS-NextGen?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/CPGRAMS-NextGen?style=social)
+- Inspired by India’s CPGRAMS platform
+- Flutter & Dart teams
+- Material Design team
+- Open-source community
 
 ---
 
 <div align="center">
   <strong>Made with ❤️ for better governance</strong>
 </div>
+
