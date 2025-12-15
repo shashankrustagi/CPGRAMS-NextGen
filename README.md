@@ -46,7 +46,7 @@ CPGRAMS NextGen provides:
 
 | Grievance List | Detail View | Timeline |
 |----------------|-------------|----------|
-| <img src="https://github.com/user-attachments/assets/26964375-0688-41af-89cd-254669647610" width="300" /> | <img src="https://github.com/user-attachments/assets/7049a683-987a-4a30-bc23-bc10bcfa79b8" width="300" /> | <img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-12-15 at 14 26 47" src="https://github.com/user-attachments/assets/712063c0-8a9a-4dfd-9bfa-526a9314dfa6" />
+| <img src="https://github.com/user-attachments/assets/26964375-0688-41af-89cd-254669647610" width="300" /> | <img src="https://github.com/user-attachments/assets/7049a683-987a-4a30-bc23-bc10bcfa79b8" width="300" /> | <img width="1290" height="2796" alt="Simulator Screenshot - iPhone 16 Plus - 2025-12-15 at 14 26 47" src="https://github.com/user-attachments/assets/712063c0-8a9a-4dfd-9bfa-526a9314dfa6" width="300"  />
 |
 
 ---
