@@ -47,6 +47,7 @@ CPGRAMS NextGen provides:
 | Grievance List | Detail View | Timeline |
 |----------------|-------------|----------|
 | <img src="https://github.com/user-attachments/assets/26964375-0688-41af-89cd-254669647610" width="300" /> | <img src="https://github.com/user-attachments/assets/7049a683-987a-4a30-bc23-bc10bcfa79b8" width="300" /> | <img src="https://github.com/user-attachments/assets/PASTE_TIMELINE_IMAGE_URL_HERE" width="300" /> |
+
 ---
 
 ## ✨ Features
